@@ -1,2 +1,3 @@
-# TraceAS_protocols
-Трассировка автономных систем
+# Трассировка автономных систем
+python script
+usage: traceAS.py [-h] [-hops HOPS] [-timeout TIMEOUT] destination
